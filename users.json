@@ -1,1 +1,5 @@
-{"value1":24.25,"value2":49.54,"value3":1005.14}
+[
+  {"sentence0": "abc"},
+  {"sentence1": "xyz"},
+  {"sentence2": "qwe"}
+]
