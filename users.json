@@ -1,14 +1,14 @@
 {
   "num0":"This is the static text in a Json file storing in my Github. Test for the communication between Arduino and Python's pynput.",
-  "num1":"Zhichen Gu",
-  "num2":"c",
-  "num3":"d",
-  "num4":"e",
-  "num5":"f",
-  "num6":"g",
-  "num7":"h",
-  "num8":"i",
-  "num9":"j",
-  "num10":"k",
-  "num11":"l"
+  "num1":"This is number 1. ",
+  "num2":"This is number 2. ",
+  "num3":"This is number 3. ",
+  "num4":"This is number 4. ",
+  "num5":"This is number 5. ",
+  "num6":"This is number 6. ",
+  "num7":"This is number 7. ",
+  "num8":"This is number 8. ",
+  "num9":"This is number 9. ",
+  "num10":"This is number 10. ",
+  "num11":"This is number 11. "
 }
