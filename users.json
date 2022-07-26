@@ -1,5 +1,11 @@
 [
-  {"sentence0": "abc"},
-  {"sentence1": "xyz"},
-  {"sentence2": "qwe"}
+  {
+     "sentence0":"abc"
+  },
+  {
+     "sentence1":"xyz"
+  },
+  {
+     "sentence2":"qwe"
+  }
 ]
