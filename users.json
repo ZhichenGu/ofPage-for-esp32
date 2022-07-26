@@ -1,7 +1,5 @@
-[
-  {
-     "sentence0":"abc",
-     "sentence1":"xyz",
-     "sentence2":"qwe"
-  }
-]
+{
+  "result":true,
+  "count":42,
+  "foo":"bar"
+}
