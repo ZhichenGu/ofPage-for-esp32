@@ -1,5 +1,5 @@
 {
-  "result":true,
-  "count":42,
-  "foo":"bar"
+  "sentence0":"a",
+  "sentence1":"b",
+  "sentence2":"c"
 }
