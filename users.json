@@ -1,6 +1,6 @@
 {
-  "num0":"a",
-  "num1":"b",
+  "num0":"This is the static text in a Json file storing in my Github",
+  "num1":"Test for the communication between Ardino and Python's pynput",
   "num2":"c",
   "num3":"d",
   "num4":"e",
